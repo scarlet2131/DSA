@@ -1,0 +1,59 @@
+what is jsx in react?
+
+git commands ?
+
+projects from resume?
+
+What is different between primary key and unique key ?
+
+software testing bug life cycle
+
+explain what 4 oop principles
+
+Introduction Questions on projects Basic React and JavaScript questions What is Virtual DOM Explain the difference between Real DOM and Virtual DOM What is JSX
+
+
+
+I had a technical interview with a senior developer. This interview included: In-depth questions about Java core concepts like JVM, garbage collection, and multi-threading. Real-time coding exercises where I had to write code on a shared platform, focusing on problem-solving and logical thinking. Discussion of my past projects, where I explained the technical challenges I faced and how I overcame them. Questions on frameworks and libraries I have used, such as Spring Boot and Hibernate. An overview of my experience with CI/CD pipelines using Jenkins, Maven, and Git.
+
+Explain OOP in details and share your experience over the years
+
+Basic to Advanced quetions on .Net, Azure, Angular
+
+What are Java exceptions and oops concepts
+
+How do you overcome failure?
+
+Can you describe a challenging technical problem you faced in a recent project, and how you approached solving it?
+
+What projects you did in past?
+
+Basic questions on coding, Dsa
+
+to explain about some of the algorithms
+
+Questions about project and database
+
+What is left join ?
+
+
+1. Tell me about your project work?
+
+What was critical task you faced?
+
+Asked me basic java questions, no coding was there.
+
+Deliverables quality assurance and day to day
+
+describe your framework? flow of the framework
+
+, for loop control statement SQL, OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism) Basic Java constructs like loops and data types. String handling. Collection framework. Multithreading. Exception handling. Generics. Synchronization What does a Just in Time compiler have to offer? Do you know of any programming language runtimes that use one? How is preemptive threading model different from the cooperative threading model? What tools & practices would you consider necessary for a Continuous Delivery solution? How is a code point related to a code unit in Unicode? What do you think makes a unit test good? What about functional ones?
+
+What skills have you used in your current role? Can you walk me through a project you have completed?
+
+
+1st - I received a call from TCS that they found my profile and shared some info about the role and asked me send RTR confirmation (With salary expectations). 2nd (Same day) - I got a call from a Business relationship manager that there is an urgent opening and asked if I can interview rightaway. I said its already 5 so how about tomorrow? Then he replied that its urgent opening so if you can find sometime now! I said ok let's go for it. But after 30mins (around 6PM) I got a call that interviewer is not available so let's schedule tomorrow. 3rd (Next day) - I had an interview for half an hour, few basic java and springboot related questions and then I got schduled for client interview on the next day 4th - I had an interview with client, same questions being asked. 5th - I got some good news that I have been selected and received an email with saying congratulations and some info like HR will contact me in next 3 working days 6th - (I kept waiting...... ) and now from this point I started noticing level of unprofessionalism, after waiting for 5 days finally I got a random call from HR (no schedule/ no email - just direct call). She started with compensation which was 5k less than what I asked for in the RTR confirmation. I denied to go below my range so she said OK I will try and get back to you tomorrow. 7th - (poor me kept waiting for another 2 days.. no response) kept checking email for 2 days then decided to call her and ask. And she said oh yes yes.. It's all good, don't worry. you might receive an offer today/tomorrow. 8th - I waited whole day 😩 and then the next day and next day... nothing came.. so I sent followup email and no response.. Finally HR got some time after 3 days and replied that the offer is getting ready but by that time I got great offer from other company and I denied. Be aware and stay away rather than putting yourself in a hopeless position. The way they deal with people is so not right and very unprofessional.
+
+
+java 8 - lambda, stream and collection springboot basics
+

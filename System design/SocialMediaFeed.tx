@@ -1,0 +1,39 @@
+
+
+
+social media feed
+
+
+user a follows user b - (show posts of user b to a)
+a can intereact with b posts 
+	like
+	comments
+	share 
+	save
+
+user a can post
+
+feed genertion 
+ based on following
+ based on interest /history
+
+
+User 
+
+Following 
+user id - a to b 
+
+userid : array 
+
+does user a follows user b - ans o(n)
+ 1 billion user 
+
+ database size - 20 million 
+
+ shard1  - db1
+
+ distribution stategey ( user 298 follows user 100, now which sharrd to add to )
+
+ 50 -  298/20 - hash function 
+
+ n
