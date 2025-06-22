@@ -36,4 +36,37 @@ does user a follows user b - ans o(n)
 
  50 -  298/20 - hash function 
 
- n
+ Discussion
+
+ 	
+	 lets suppose we have 5 dbs
+	 db1    - (289/20 )%5
+	 db2 
+	 db3 
+	 db4  
+	 db5 
+
+
+
+
+follows following 
+userId1 userId2
+
+user-Post table(share)
+user id, post id
+
+posts [generic]
+post id, post contenht, timing
+
+likes table 
+user id and post id 
+
+Comments-user table 
+user id, comment id, post idd 
+
+comment meta table
+comment id, meta data
+
+
+
+
