@@ -1,4 +1,4 @@
-// find the sorted half then nd move l nd r accordingly
+a// find the sorted half then nd move l nd r accordingly
 // tc- o(logN)
 class Solution {
 public:
