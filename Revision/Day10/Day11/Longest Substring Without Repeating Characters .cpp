@@ -9,6 +9,8 @@ class Solution{
 
         while(r<n){
             if(hash[s[r]]!=-1){
+                //here we are keeping track of window lets suppose l occured before 
+                // but at an index less than l then the value of l will stay as l
                 l =  max(hash[s[r]]+1, l);
             }
 
